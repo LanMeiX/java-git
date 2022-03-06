@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("hello java");
         System.out.println("hello, python");
         System.out.println("hello c++");
+        System.out.println("hello go");
+        
     }
 }
